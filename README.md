@@ -1,5 +1,4 @@
 # Enea-training-VR
-Images
 
 --------------
 
